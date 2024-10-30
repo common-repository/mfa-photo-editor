@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My FastAPP Photo Editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 11:08+0000\n"
+"PO-Revision-Date: 2021-06-29 10:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: mfa-photo-editor"
+
+#. Description of the plugin
+msgid ""
+"Allows you to select images from the Wordpress Media Library for the Photo "
+"Editor feature of the My FastAPP plugin."
+msgstr ""
+"Ti consente di selezionare immagini dalla Libreria dei Media di Wordpress da "
+"utilizzare per il Photo Editor del plugin My FastAPP."
+
+#. [message] generic message for javascript problem
+#: translations.php:69
+msgctxt "Backend"
+msgid "A javascript problem occurred."
+msgstr "Si è verificato un problema con javascript."
+
+#. [message] problem (invalid nonce) while checking the metabox data
+#: translations.php:127
+msgctxt "Backend"
+msgid "A security problem occurred while checking a metabox data"
+msgstr ""
+"Si è vericato un problema di sicurezza durante la verifica dei dati di una "
+"metabox"
+
+#. [text] info about how to save the gallery configuration
+#: translations.php:36
+msgctxt "Backend"
+msgid ""
+"Click the &nbsp;{button}&nbsp; button to save the Overlay and Scenario "
+"configurations."
+msgstr ""
+"Clicca il bottone &nbsp;{button}&nbsp; per salvare le configurazioni Overlay "
+"e Scenario della gallery."
+
+#. [text] info about how to copy the configuration file into the clipboard
+#: translations.php:40
+msgctxt "Backend"
+msgid ""
+"Click the &nbsp;{icon}&nbsp; icon to copy the URL of the gallery "
+"configuration file into the clipboard."
+msgstr ""
+"Clicca l'icona &nbsp;{icon}&nbsp; per copiare nella clipboard l'URL del file "
+"di configurazione della gallery."
+
+#. [text] info about how to select the images to be added to the gallery
+#: translations.php:32
+msgctxt "Backend"
+msgid ""
+"Click the &nbsp;{icon}&nbsp; icons to select the images from the Wordpress "
+"Media Library."
+msgstr ""
+"Clicca le icone &nbsp;{icon}&nbsp; per selezionare le immagini dalla "
+"Libreria dei Media di Wordpress."
+
+#. [text] tooltip of the 'copy into clipboard' icon
+#: translations.php:60
+msgctxt "Backend"
+msgid "copy into clipboard"
+msgstr "copia nella clipboard"
+
+#. [text] title of the trash icon on each gallery image
+#: translations.php:93
+msgctxt "Backend"
+msgid "delete image"
+msgstr "rimuovi l'immagine"
+
+#. [text] info about how to sort the gallery images
+#: translations.php:48
+msgctxt "Backend"
+msgid "Drag and drop the images to sort their order."
+msgstr "Trascina le immagini per modificarne l'ordine."
+
+#. [text] title of the gallery images
+#: translations.php:89
+msgctxt "Backend"
+msgid "drag&drop to sort"
+msgstr "drag&drop per riordinare"
+
+#. [text] label of the field Gallery URL (url of the json file)
+#: translations.php:56
+msgctxt "Backend"
+msgid "Gallery URL"
+msgstr "URL della Gallery"
+
+#. [text] button of WP media library
+#: translations.php:77
+msgctxt "Backend"
+msgid "OK"
+msgstr "OK"
+
+#. [text] title of the gallery administration page
+#: translations.php:28
+msgctxt "Backend"
+msgid "Photo Editor for My FastAPP"
+msgstr "Photo Editor per My FastAPP"
+
+#. [text] text of the save gallery button
+#: translations.php:64
+msgctxt "Backend"
+msgid "save changes"
+msgstr "salva le modifiche"
+
+#. [text] title of WP media library
+#: translations.php:81
+#| msgid "Select the image(s) for the overlay"
+msgctxt "Backend"
+msgid "Select the image(s) for the OVERLAY"
+msgstr "Seleziona le immagini per l'OVERLAY"
+
+#. [text] title of WP media library
+#: translations.php:85
+#| msgid "Select the image(s) for the scenario"
+msgctxt "Backend"
+msgid "Select the image(s) for the SCENARIO"
+msgstr "Seleziona le immagini per lo SCENARIO"
+
+#. [text] tooltip for the help icon button
+#: translations.php:52
+msgctxt "Backend"
+msgid "Show/Hide the instructions."
+msgstr "Mostra/Nascondi le istruzioni."
+
+#. [message] appears after clicking the button
+#: translations.php:73
+msgctxt "Backend"
+msgid "Text copied into clipboard:"
+msgstr "Testo copiato nella clipboard:"
+
+#. [text] info about how to remove an image from the gallery
+#: translations.php:44
+#| msgid ""
+#| "To remove an image, click the &nbsp;{icon}&nbsp; icon and then save the "
+#| "gallery."
+msgctxt "Backend"
+msgid ""
+"To remove an image, click the &nbsp;{icon}&nbsp; icon and then save changes."
+msgstr ""
+"Per rimuovere un'immagine clicca l'icona &nbsp;{icon}&nbsp; e poi salva le "
+"modifiche."
+
+#. [text] title of the trash icon on each deleting gallery image
+#: translations.php:97
+msgctxt "Backend"
+msgid "undo deleting"
+msgstr "annulla la cancellazione"
+
+#. [message] the user has insufficient rights to save the metabox data
+#: translations.php:130
+msgctxt "Backend"
+msgid "You're not authorized to modify metabox content"
+msgstr "Non sei autorizzato a modificare il contenuto di una metabox"
+
+#. Author URI of the plugin
+msgid "https://sosidee.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "My FastAPP Photo Editor"
+msgstr ""
+
+#. [message] error: problem saving configuration in the json file
+#: translations.php:120
+msgctxt "Rest API"
+msgid "A problem occurred while saving data in the configuration json file."
+msgstr ""
+"Si è verificato un problema durante il salvataggio dei dati json del file di "
+"configurazione."
+
+#. [message] error: problem saving configuration in the database
+#: translations.php:116
+msgctxt "Rest API"
+msgid "A problem occurred while saving data in the WP database."
+msgstr ""
+"Si è verificato un problema durante il salvataggio dei dati nel database di "
+"WP."
+
+#. [message] error: http request body data are invalid
+#: translations.php:108
+msgctxt "Rest API"
+msgid "Invalid data in the request body."
+msgstr "Dati non validi nel body della richiesta."
+
+#. [message] info: gallery has been saved successfully
+#: translations.php:112
+msgctxt "Rest API"
+msgid "The gallery configuration has been saved."
+msgstr "La configurazione della galleria è stata salvata."
+
+#. [message] error: http request with no body
+#: translations.php:104
+msgctxt "Rest API"
+msgid "The request body is empty."
+msgstr "Il body della richiesta è vuoto."
+
+#. Author of the plugin
+msgid "SOSidee.com srl"
+msgstr ""
+
+#. User role for subscribers.
+#: translations.php:134
+msgctxt "User role"
+msgid "Translator"
+msgstr "Traduttore"

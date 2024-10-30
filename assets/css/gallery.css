@@ -1,0 +1,72 @@
+div.sos-gal-info {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    padding-left: 1em;
+}
+div.sos-gal-info p {
+    list-style: disc outside none;
+    display: list-item;
+}
+div.sos-gal-box {
+    float: left;
+    width: 49%;
+    min-width: 340px;
+    padding: 0px;
+    text-align: center;
+}
+div.sos-gal-box-inner {
+    width: 100%;
+    min-height: 150px;
+    border: 1px solid rgba(0, 0, 0, 0.07);
+}
+#sos-gal-box-overlay div.sos-gal-box-inner {
+    border-right: 1px solid rgba(0, 0, 0, 0.07);
+    margin-right: 1px;
+}
+#sos-gal-box-scenario div.sos-gal-box-inner {
+    border-left: 1px solid rgba(0, 0, 0, 0.07);
+    border-left: 1px;
+}
+div.sos-gal-title {
+    padding: 4px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.07);
+}
+li.sos-gal-item {
+    float: left;
+    margin: 4px;
+    text-align: center;
+    padding: 4px;
+    position: relative;
+}
+li.sos-gal-item img {
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    cursor: grab;
+}
+li.sos-gal-item i {
+    cursor: pointer;
+    background-color: white;
+    color: red;
+    border-radius: 2px;
+    font-size: 150%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    margin-top: 0;
+}
+td.sos-gal-url input {
+    width: 50%;
+    margin-right: 1em;
+}
+td.sos-gal-url i {
+    vertical-align: bottom;
+    cursor: pointer;
+}
+div.sos-gal-cmd {
+    text-align: left;
+    padding: 4px 4px 4px 16px;
+}
